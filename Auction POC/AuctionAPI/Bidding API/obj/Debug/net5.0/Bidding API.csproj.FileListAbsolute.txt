@@ -1,0 +1,65 @@
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\appsettings.Development.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\appsettings.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Bidding API.exe
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Bidding API.deps.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Bidding API.runtimeconfig.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Bidding API.runtimeconfig.dev.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Bidding API.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\ref\Bidding API.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Bidding API.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\DomainLayer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Repositories.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Services.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\DomainLayer.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Services.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\bin\Debug\net5.0\Repositories.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.csprojAssemblyReference.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.AssemblyInfoInputs.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.AssemblyInfo.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.MvcApplicationPartsAssemblyInfo.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.MvcApplicationPartsAssemblyInfo.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\staticwebassets\Bidding API.StaticWebAssets.Manifest.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\staticwebassets\Bidding API.StaticWebAssets.xml
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\scopedcss\bundle\Bidding API.styles.css
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.RazorTargetAssemblyInfo.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.csproj.CopyComplete
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\ref\Bidding API.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Bidding API\obj\Debug\net5.0\Bidding API.genruntimeconfig.cache

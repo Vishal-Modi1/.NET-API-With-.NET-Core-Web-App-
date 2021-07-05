@@ -1,0 +1,22 @@
+﻿<div style="padding-top:10px;padding-bottom:10px;">
+
+    <h3> Bidder details </h3>
+
+    <div style="padding-top:10px;padding-bottom:10px;">
+        <form id="frmBidders" name="frmBidders" action="/Bidders/AddBidder" method="post">
+
+            <label> Name : </label>
+            <input type="text" required name="Name" id="bidderName" />
+
+            <input type="button" id="addBidder" value="Add" class="btn btn-primary" />
+        </form>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    $("#addBidder").click(function (e) {
+        bidders.push({ "Name": $('#bidderName').val() });
+        $('#bidderName').val('');
+    });
+</script>

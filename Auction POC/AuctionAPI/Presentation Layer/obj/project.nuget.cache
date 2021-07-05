@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yn98ee+LRIXPfJ3fvVRtCAAeSuRaXeNaLZJdZvFE/PYn5EfH76RqMYlvQ8DLC3ObzZ5BEBXcTw26cn35NATULA==",
+  "success": true,
+  "projectFilePath": "D:\\Upwork Projects\\Auction POC\\AuctionAPI\\Presentation Layer\\Presentation Layer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

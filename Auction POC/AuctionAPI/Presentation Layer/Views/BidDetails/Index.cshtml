@@ -1,0 +1,72 @@
+﻿@model DomainLayer.ViewModels.BidAutionDetailsVM
+
+<div style="padding-top:10px;padding-bottom:10px;">
+
+    <h3> Bid details </h3>
+
+    <div style="padding-top:10px;padding-bottom:10px;">
+        <form id="frmBidDetails" name="frmBidDetails" action="/BidDetails/AddBidDetails" method="post">
+
+            <label> Item Name : </label>
+           <input type="text" value="" readonly id="txtItem"/>
+
+            <label> Bidder Name : </label>
+            <select id="ddlbidders">
+                <option value=""></option>
+            </select>
+
+            <input type="number" name="txtPrice" id="txtPrice"  />
+
+            <input type="button" value="Add" id="addBidDetails" class="btn btn-primary" />
+        </form>
+
+        <table border="1" style="display:none;margin-top:20px" id="tblAuctionDetails" s>
+
+            <tr>
+                <th style="width:200px">Starting Price</th>
+                <th style="width:200px">Bidder</th>
+                <th style="width:200px">Bid</th>
+                <th style="width:200px">Profit</th>
+            </tr>
+
+        </table>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    $('#txtItem').val(itemDetails.Name + " " + itemDetails.Price)
+
+    bidders.forEach(function (data, index) {
+
+        $('#ddlbidders').append('<option value="' + data.Name +  '"> ' + data.Name +  '</option>')
+        
+    })
+
+    $("#addBidDetails").click(function (e) {
+        
+        bidDetails.push({ "ItemName": $('#bidderName').val(), "BidderName": $('#ddlbidders').val(), "Price": $('#txtPrice').val()  });
+
+        var profit = parseFloat($('#txtPrice').val()) - parseFloat(itemDetails.Price)
+        var columnString = "";
+
+        if (Math.sign(profit) == -1) {
+            columnString =  '<td style="color:red">' + profit + ' </td>';
+        }
+        else {
+            columnString = '<td>' + profit + ' </td>';
+        }
+
+
+        $('#tblAuctionDetails').append('<tr> <td>' + itemDetails.Price + ' </td> <td>' + $('#ddlbidders').val() + '</td>'
+            + '<td>' + $('#txtPrice').val() + ' </td>' + columnString + ' </tr> ')
+
+        $('#txtPrice').val('');
+        $('#ddlbidders').val('');
+        $('#bidderName').val('');
+
+        $('#tblAuctionDetails').css('display', 'inline-block')
+
+    });
+
+</script>

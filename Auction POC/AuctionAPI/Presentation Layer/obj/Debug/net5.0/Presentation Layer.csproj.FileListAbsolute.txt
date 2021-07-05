@@ -1,0 +1,47 @@
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\appsettings.Development.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\appsettings.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.exe
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.deps.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.runtimeconfig.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.runtimeconfig.dev.json
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\ref\Presentation Layer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.Views.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Presentation Layer.Views.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\DomainLayer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\bin\Debug\net5.0\DomainLayer.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.csprojAssemblyReference.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.AssemblyInfoInputs.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.AssemblyInfo.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.MvcApplicationPartsAssemblyInfo.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.RazorAssemblyInfo.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.RazorAssemblyInfo.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\staticwebassets\Presentation Layer.StaticWebAssets.Manifest.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\staticwebassets\Presentation Layer.StaticWebAssets.xml
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\scopedcss\bundle\Presentation Layer.styles.css
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.TagHelpers.input.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.TagHelpers.output.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.RazorCoreGenerate.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\Bidder\Index.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\BidDetails\Index.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\ItemDetails\Index.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\Winner\Index.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.RazorTargetAssemblyInfo.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.RazorTargetAssemblyInfo.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.Views.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.csproj.CopyComplete
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\ref\Presentation Layer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\Presentation Layer\obj\Debug\net5.0\Presentation Layer.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+﻿<h3>Winner</h3>
+
+<label id="winnerDetails">
+
+</label>
+
+<br />
+<label id="message"></label>
+<script>
+
+    var prices = [];
+
+    bidDetails.forEach(function (data) {
+
+        prices.push(parseFloat(data.Price))
+    })
+
+    var maxPrice = Math.max(...prices);
+    var data = bidDetails.find(p => p.Price == maxPrice)
+    $('#winnerDetails').html(data.BidderName + ' ' + maxPrice)
+
+</script>

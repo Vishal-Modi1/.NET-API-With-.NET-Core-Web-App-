@@ -1,0 +1,106 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container py-3 my-3 border rounded shadow-sm">
+    <div class="row">
+        <section class="col-12">
+            <ul class="nav nav-tabs flex-nowrap" role="tablist">
+                <li role="presentation" class="nav-item">
+                    <a href="#itemDetails" class="nav-link active" data-toggle="tab" aria-controls="itemDetails" id="itemDetailsTab" role="tab" title="Step 1"> Add Items </a>
+                </li>
+                <li role="presentation" class="nav-item">
+                    <a href="#Bidder" class="nav-link disabled" data-toggle="tab" aria-controls="Bidder" role="tab" id="bidderTab" title="Step 2"> Add Bidder </a>
+                </li>
+                <li role="presentation" class="nav-item">
+                    <a href="#bidDetails" class="nav-link disabled" data-toggle="tab" aria-controls="bidDetails" id="bidDetailsTab" role="tab" title="Step 3"> Bid on Item </a>
+                </li>
+                <li role="presentation" class="nav-item">
+                    <a href="#winner" class="nav-link disabled" data-toggle="tab" aria-controls="winner" id="winnerTab" role="tab" title="winner"> Winner </a>
+                </li>
+            </ul>
+            <form role="form">
+                <div class="tab-content py-2">
+                    <div class="tab-pane active" role="tabpanel" id="itemDetails">
+                        <div id="itemDetailsDivContainer">
+                         
+                        </div>
+                        <button type="button" class="btn btn-primary next-step float-right">Save & Next</button>
+
+                    </div>
+                    <div class="tab-pane" role="tabpanel" id="Bidder">
+                        <div id="bidderDivContainer">
+                          
+                        </div>
+                        <ul class="float-right">
+                            <li class="list-inline-item">
+                                <button type="button" class="btn btn-outline-primary prev-step">Previous</button>
+                            </li>
+                            <li class="list-inline-item">
+                                <button type="button" class="btn btn-primary next-step">Next</button>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="tab-pane" role="tabpanel" id="bidDetails">
+                        <div id="bidDetailsDivContainer">
+                           
+                        </div>
+
+                        <ul class="float-right">
+                            <li class="list-inline-item">
+                                <button type="button" class="btn btn-outline-primary prev-step">Previous</button>
+                            </li>
+                            <li class="list-inline-item">
+                                <button type="button" class="btn btn-primary btn-info-full next-step">Find Winner</button>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    <div class="tab-pane" role="tabpanel" id="winner">
+                        <div id="winnerDivContainer">
+                           
+                        </div>
+
+                        <ul class="float-right">
+                            <li class="list-inline-item">
+                                <button type="button" class="btn btn-outline-primary prev-step">Previous</button>
+                            </li>
+                            <li class="list-inline-item">
+                                <button type="button" id="btnSave" class="btn btn-primary btn-info-full next-step">Save Auction</button>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+
+    function GetItemDetailsForm() {
+        
+        $.get("/ItemDetails/Index/", function (data) {
+            $("#itemDetailsDivContainer").html(data);
+        });
+    }
+
+    function GetBidderForm() {
+
+        routingApp.runRoute('get', '/Bidder/Index');
+    }
+
+    function GetBiddetailsForm() {
+
+        routingApp.runRoute('get', '/BidDetails/Index');
+    }
+
+    function GetWinner() {
+
+        routingApp.runRoute('get', '/Winner/Index');
+    }
+
+</script>
+

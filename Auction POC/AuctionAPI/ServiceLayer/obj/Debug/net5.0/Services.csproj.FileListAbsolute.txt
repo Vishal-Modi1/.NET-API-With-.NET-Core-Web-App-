@@ -1,0 +1,17 @@
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\Services.deps.json
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\Services.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\ref\Services.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\Services.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\DomainLayer.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\Repositories.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\DomainLayer.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\bin\Debug\net5.0\Repositories.pdb
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.csprojAssemblyReference.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.AssemblyInfoInputs.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.AssemblyInfo.cs
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.csproj.CoreCompileInputs.cache
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.csproj.CopyComplete
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\ref\Services.dll
+D:\Upwork Projects\Auction POC\AuctionAPI\ServiceLayer\obj\Debug\net5.0\Services.pdb
